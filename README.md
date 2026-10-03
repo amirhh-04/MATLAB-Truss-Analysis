@@ -289,6 +289,27 @@ MATLAB-Truss-Analysis/
 
 ---
 
+## 📸 Results & Visualization
+
+### 2D Planar Truss
+
+Finite Element Analysis (FEA) of a 2D planar truss, showing the deformed configuration.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02d228ed-52d7-4714-bc28-f4f65f9853fb" alt="2D planar truss — deformed configuration" width="600" />
+</p>
+
+### 3D Space Truss
+
+Three-dimensional space truss analysis using the Finite Element Method (FEM), including structural deformation and visualization of failed elements.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/342c7b8c-8632-467a-b365-0ed3512a9ef6" alt="3D space truss — visualization of failed elements" width="562" />
+  <img src="https://github.com/user-attachments/assets/cc51909a-2eef-4b26-b371-1f25c92c4737" alt="3D space truss — FEM visualization" width="720" />
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 ### Requirements
